@@ -1,4 +1,4 @@
-# <img src="img/banner.png" alt="Banner" style="width:100%;">
+# <img src="img/banner2.png" alt="Banner" style="width:100%;">
 # True Shiny Ice and Shadow Rider Calyrex
 A simple texture mod for Pokémon Home that makes Calyrex's Ice Rider and Shadow Rider forms have both Pokémon shiny.  
 
@@ -12,6 +12,7 @@ Before installing, **make sure the release is compatible with the current versio
 
 I've tested this myself on my own Pokémon Home account, so you shouldn't get banned for using it. However, if you do get banned, I take no responsibility; that's on you. Now **what you will get banned for is cheating in a shiny Calyrex Ice or Shadow Rider because, at the time of writing this, there is no way to legitimately obtain them shiny.**  
 # Gallery
-<img src="img/showcase.png" alt="Showcase" style="width:100%;">
+Didn't realize Ice Rider Calyrex still had Shadow Rider Calyrex's moves so just ignore that.  
+<img src="img/summary.png" alt="Summary" style="width:100%;">  
 
-<img src="img/summary.png" alt="Summary" style="width:100%;">
+<img src="img/showcase.png" alt="Showcase" style="width:100%;">  
